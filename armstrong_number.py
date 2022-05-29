@@ -24,3 +24,13 @@ if num.isnumeric():
    print("{} is not an Armstrong number".format(num))
 else:
   print("It is an invalid entry. Don't use non-numeric, float, or negative values!")
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
