@@ -6,4 +6,10 @@ def rightrotate(mylist:list, num:int):
   return mylist[len(mylist)-num:]+mylist[0:len(mylist)-num]
 print(rightrotate([1,3,6,8,9,3,4], 6))
 
+### 2.way ##
+
+def rightrotate(mylist:list, num:int):
+  return mylist[-num:]+mylist[0:-num]
+print(rightrotate([1,3,6,8,9,3,4], 3))
+
 
