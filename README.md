@@ -1,2 +1,2 @@
 
-I attended Clarusway's bootcamp on April 18, 2022. It includes the assignment and work I did there.
+I attended Clarusway's Bootcamp on April 18, 2022. It includes the assignment and work I do to improve myself
