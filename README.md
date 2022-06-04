@@ -1,2 +1,5 @@
 
-I attended Clarusway's Bootcamp on April 18, 2022. It includes the assignment and work I do to improve myself
+
+My Python Adventure
+
+I've just started learning python and I really like learning with checkio, leetcode, hackerrank. Here are my own solutions..
