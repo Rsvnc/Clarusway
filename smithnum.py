@@ -40,9 +40,9 @@ def issmith(x):
   if len(sum)==1:
       return False
   else:
-    for i in set(sum):
+    for i in sum:
       for j in str(i):
-        result+=int(j)*sum.count(i)
+        result+=int(j)
     return result==sumnum
   
   
