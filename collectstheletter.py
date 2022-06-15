@@ -18,5 +18,12 @@ def collects(word):
 print(collects("rabia sevinç"))
 print(collects("hippo runs to us!"))
 
+#2
+def collects(word):
+  collect={}
+  for i in word:
+    collect.update({i:word.count(i)})
+  return collect
+
 
 
